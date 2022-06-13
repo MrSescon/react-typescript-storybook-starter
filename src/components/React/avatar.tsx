@@ -1,7 +1,7 @@
 import React from "react";
 
-function avatar() {
+function Avatar() {
   return <div>avatar</div>;
 }
 
-export default avatar;
+export default Avatar;

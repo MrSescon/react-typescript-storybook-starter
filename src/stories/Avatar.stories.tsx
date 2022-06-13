@@ -1,10 +1,9 @@
 import React from "react";
-import { action } from "@storybook/addon-actions";
-import { Button } from "@storybook/react/demo";
+import Avatar from "../components/React/avatar";
 
 export default {
-  title: "Button",
-  component: Button,
+  title: "Avatar",
+  component: Avatar,
 };
 
-export const Avatar = () => <Avatar />;
+export const Default = () => <Avatar />;
