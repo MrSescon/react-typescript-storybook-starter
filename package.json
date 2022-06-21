@@ -30,7 +30,7 @@
     "@types/storybook__react": "5.2.1",
     "@types/styled-components": "5.1.25",
     "babel-loader": "8.1.0",
-    "chromatic": "6.5.6",
+    "chromatic": "6.6.3",
     "fork-ts-checker-webpack-plugin": "4.1.1",
     "jest": "25.2.0",
     "react-docgen-typescript-loader": "3.7.1",
